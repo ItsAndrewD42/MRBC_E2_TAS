@@ -1,0 +1,55 @@
+SystemID PSX
+0FCCBD	b	s	0	MainRAM	Monster#1
+0FCCBE	b	s	0	MainRAM	Monster#2
+0FCCBF	b	s	0	MainRAM	Monster#3
+0FCCC0	w	s	0	MainRAM	Skill Reward Start
+0FCCC2	w	s	0	MainRAM	
+0FCCC4	w	s	0	MainRAM	
+0FCCC6	w	s	0	MainRAM	
+0FCCC8	w	s	0	MainRAM	
+0FCCCA	w	s	0	MainRAM	
+0FCCCC	w	s	0	MainRAM	
+0FCCCE	w	s	0	MainRAM	
+0FCCD0	w	s	0	MainRAM	
+0FCCD2	w	s	0	MainRAM	
+0FCCD4	w	s	0	MainRAM	
+0FCCD6	w	s	0	MainRAM	
+0FCCD8	w	s	0	MainRAM	
+0FCCDA	w	s	0	MainRAM	
+0FCCDC	w	s	0	MainRAM	
+0FCCDE	w	s	0	MainRAM	
+0FCCE0	w	s	0	MainRAM	
+0FCCE2	w	s	0	MainRAM	
+0FCCE4	w	s	0	MainRAM	
+0FCCE6	w	s	0	MainRAM	
+0FCCE8	w	s	0	MainRAM	
+0FCCEA	w	s	0	MainRAM	
+0FCCEC	w	s	0	MainRAM	
+0FCCEE	w	s	0	MainRAM	
+0FCCF0	w	s	0	MainRAM	
+0FCCF2	w	s	0	MainRAM	
+0FCCF4	w	s	0	MainRAM	
+0FCCF6	w	s	0	MainRAM	
+0FCCF8	w	s	0	MainRAM	
+0FCCFA	w	s	0	MainRAM	
+0FCCFC	w	s	0	MainRAM	
+0FCCFE	w	s	0	MainRAM	
+0FCD00	w	s	0	MainRAM	
+0FCD02	w	s	0	MainRAM	
+0FCD04	w	s	0	MainRAM	
+0FCD06	w	s	0	MainRAM	
+0FCD08	w	s	0	MainRAM	
+0FCD0A	w	s	0	MainRAM	
+0FCD0C	w	s	0	MainRAM	
+0FCD0E	w	s	0	MainRAM	
+0FCD10	w	s	0	MainRAM	
+0FCD12	w	s	0	MainRAM	
+0FCD14	w	s	0	MainRAM	
+0FCD16	w	s	0	MainRAM	
+0FCD18	w	s	0	MainRAM	
+0FCD1A	w	s	0	MainRAM	
+0FCD1C	w	s	0	MainRAM	
+0FCD1E	w	s	0	MainRAM	
+0FCD20	w	s	0	MainRAM	
+0FCD22	w	s	0	MainRAM	Skill Reward End
+
